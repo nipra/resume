@@ -48,6 +48,12 @@ Resume: https:&#x2F;&#x2F;www.dropbox.com&#x2F;s&#x2F;inygp31j085rvzt&#x2F;r%C3%
 
 ---
 
+### Shivaji University - B. E., Electronics
+##### 2001-01-01 - 2006-01-01
+
+
+---
+
 
 
 

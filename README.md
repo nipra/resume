@@ -35,7 +35,14 @@ Code:
 
 Resume: https:&#x2F;&#x2F;www.dropbox.com&#x2F;s&#x2F;inygp31j085rvzt&#x2F;r%C3%A9sum%C3%A9.pdf
 
+## Work
 
+
+### System Administrator, Srijan Technologies Pvt. Ltd.
+##### 2006-07-01 - 2006-12-01
+• Basic Linux sysadmin stuff. Period of learning Perl.
+
+---
 
 
 

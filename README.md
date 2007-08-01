@@ -44,6 +44,26 @@ Resume: https:&#x2F;&#x2F;www.dropbox.com&#x2F;s&#x2F;inygp31j085rvzt&#x2F;r%C3%
 
 ---
 
+### Software Developer, Cleartrip.com
+##### 2007-08-01 - 2009-05-01
+• Integrated routing for domestic flight search with existing system along with another team member 
+
+• Worked on search system of IC airline along with another team member 
+
+• Maintaining and improving internal and external API for flight search and booking 
+
+• Designed and implemented international flight search along with another team member 
+
+• Worked on booking system for flights along with other team members 
+
+• Worked on payment gateway manager to check the authentication of a card along with another team member 
+
+• Wrote a couple of internal admin tools
+
+• Technologies Used: Allegro Common Lisp, Allegro Cache, Memcached, Hunchentoot, HTML-TEMPLATE
+
+---
+
 
 
 ## Education

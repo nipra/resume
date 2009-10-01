@@ -64,6 +64,42 @@ Resume: https:&#x2F;&#x2F;www.dropbox.com&#x2F;s&#x2F;inygp31j085rvzt&#x2F;r%C3%
 
 ---
 
+### Software Engineer, Infinitely Beta
+##### 2009-10-01 - 2011-09-01
+• Part of the backend team  which built and launched http:&#x2F;&#x2F;www.paisa.com&#x2F;, a financial portal for managing your portfolio and getting latest updates about BSE&#x2F;NSE quotes 
+
+• Wrote services for fetching BSE&#x2F;NSE quotes which get updated every 5&#x2F;10 minutes 
+
+• Wrote scrapers for fetching BSE&#x2F;NSE historical data from the official sites 
+
+• Administration and tuning of MongoDB 
+
+• Part of the backend team which built Quora like Q&amp;A cum customer support site which is a software as a service (SAAS) platform 
+
+• Designed and implemented badges system like stackoverflow for qotd.co using MapReduce feature of MongoDB 
+
+• Part of the team which built Clojure wrappers for MongoDB Java driver, Redis Java client (Jedis), RabbitMQ Java client. We also used code from available open source projects. 
+
+• During various AWS outages, led the team to recover MongoDB data from slave and putting back the system to a sane state
+
+• Learned fabric and supervisord tools for administration 
+
+• Wrote Python scripts for taking MongoDB backup using mongodump utility and uploading to Amazon S3 
+
+• Did a lot of experimentation to get a hands on knowledge of MongoDB sharding and replication features on a heavy local machine. Test setup consisted of 10-15 virtual machine nodes. Wrote Python scripts using fabric to automate this process of setting up the cluster.
+
+• Part of the team which used Redis to implement a feed system 
+
+• Was part of the team that scraped Oracle Java forums, HTC forums, etc. using Scrapy Python library&#x2F;tool and loaded data in DB for demoing to prospective customers of Qotd.co 
+
+• Wrote a system to incrementally fetch emails using Python imaplib library
+ 
+• Designed and implemented queuing system using RabbitMQ to offload various works that can be done asynchronously e.g. sending notification, fetching mail, sending tweets.
+
+• Technologies Used: Clojure, Python, MongoDB, Redis, RabbitMQ, Compojure, Git, EC2, S3, Scrapy, Supervisord, Fabric
+
+---
+
 
 
 ## Education

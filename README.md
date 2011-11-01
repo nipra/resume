@@ -100,6 +100,42 @@ Resume: https:&#x2F;&#x2F;www.dropbox.com&#x2F;s&#x2F;inygp31j085rvzt&#x2F;r%C3%
 
 ---
 
+### Senior Software Engineer (Big Data &#x2F; Analytics), LinkedIn (SlideShare)
+##### 2011-11-01 
+• Working on the SlideShare product (http:&#x2F;&#x2F;www.slideshare.net). LinkedIn acquired SlideShare in May 2012. SlideShare + LinkedIn = More Value for Professionals: http:&#x2F;&#x2F;blog.linkedin.com&#x2F;2012&#x2F;05&#x2F;03&#x2F;slideshare-linkedin-more-value-for-professionals&#x2F;
+
+• Part of Analytics data backend team and working on a new scalable version of the analytics product using Hadoop&#x2F;HBase&#x2F;Pig&#x2F;Oozie.
+
+• Blog posts related to various product launches:
+
+- PRO Analytics Are Now Faster, Simpler, Better: http:&#x2F;&#x2F;blog.slideshare.net&#x2F;2013&#x2F;07&#x2F;25&#x2F;pro-analytics-are-now-faster-simpler-better&#x2F;
+
+- Hadoop and Near Real Time Analytics at SlideShare: http:&#x2F;&#x2F;engineering.slideshare.net&#x2F;2014&#x2F;04&#x2F;hadoop-and-near-real-time-analytics-at-slideshare&#x2F;
+  This blog post was mentioned in Hadoop Weekly Issue #66: http:&#x2F;&#x2F;www.hadoopweekly.com&#x2F;Hadoop-Weekly-66.html
+
+- Analytics Now Available to All Users: http:&#x2F;&#x2F;blog.slideshare.net&#x2F;2014&#x2F;12&#x2F;11&#x2F;analytics-now-available-to-all-users&#x2F;
+
+• Responsibilities:
+
+ - Writing MR jobs using Pig and Java 
+ - Designing HBase table schemas
+ - Writing Oozie workflows
+ - Improving overall data processing workflow time
+ - Taking care of overall cluster health along with ops team
+ - Taking architectural decisions
+ - Technology selection
+ - Capacity planning
+ - Driving various ops related efforts
+ - Writing scripts for creating, truncating, dropping, altering HBase tables
+ - Deep dive into various configuration parameters for Hadoop, HBase, Pig, TorqueBox
+ - Own, maintain, improve aggregation layer (Sinatra app) written in JRuby&#x2F;TorqueBox
+
+• Previously worked on search, newsfeed and built a REST API for follow&#x2F;unfollow activities.
+
+• Technologies Used: Hadoop, HBase, Apache Phoenix, Pig, Oozie, TorqueBox, JRuby, Clojure, Ruby, Sinatra, MySQL, Solr, MongoDB
+
+---
+
 
 
 ## Education

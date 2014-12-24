@@ -38,29 +38,39 @@ Resume: https:&#x2F;&#x2F;www.dropbox.com&#x2F;s&#x2F;inygp31j085rvzt&#x2F;r%C3%
 ## Work
 
 
-### System Administrator, Srijan Technologies Pvt. Ltd.
-##### 2006-07-01 - 2006-12-01
-• Basic Linux sysadmin stuff. Period of learning Perl.
+### Senior Software Engineer (Big Data &#x2F; Analytics), LinkedIn (SlideShare)
+##### 2011-11-01 
+• Working on the SlideShare product (http:&#x2F;&#x2F;www.slideshare.net). LinkedIn acquired SlideShare in May 2012. SlideShare + LinkedIn = More Value for Professionals: http:&#x2F;&#x2F;blog.linkedin.com&#x2F;2012&#x2F;05&#x2F;03&#x2F;slideshare-linkedin-more-value-for-professionals&#x2F;
 
----
+• Part of Analytics data backend team and working on a new scalable version of the analytics product using Hadoop&#x2F;HBase&#x2F;Pig&#x2F;Oozie.
 
-### Software Developer, Cleartrip.com
-##### 2007-08-01 - 2009-05-01
-• Integrated routing for domestic flight search with existing system along with another team member 
+• Blog posts related to various product launches:
 
-• Worked on search system of IC airline along with another team member 
+- PRO Analytics Are Now Faster, Simpler, Better: http:&#x2F;&#x2F;blog.slideshare.net&#x2F;2013&#x2F;07&#x2F;25&#x2F;pro-analytics-are-now-faster-simpler-better&#x2F;
 
-• Maintaining and improving internal and external API for flight search and booking 
+- Hadoop and Near Real Time Analytics at SlideShare: http:&#x2F;&#x2F;engineering.slideshare.net&#x2F;2014&#x2F;04&#x2F;hadoop-and-near-real-time-analytics-at-slideshare&#x2F;
+  This blog post was mentioned in Hadoop Weekly Issue #66: http:&#x2F;&#x2F;www.hadoopweekly.com&#x2F;Hadoop-Weekly-66.html
 
-• Designed and implemented international flight search along with another team member 
+- Analytics Now Available to All Users: http:&#x2F;&#x2F;blog.slideshare.net&#x2F;2014&#x2F;12&#x2F;11&#x2F;analytics-now-available-to-all-users&#x2F;
 
-• Worked on booking system for flights along with other team members 
+• Responsibilities:
 
-• Worked on payment gateway manager to check the authentication of a card along with another team member 
+ - Writing MR jobs using Pig and Java 
+ - Designing HBase table schemas
+ - Writing Oozie workflows
+ - Improving overall data processing workflow time
+ - Taking care of overall cluster health along with ops team
+ - Taking architectural decisions
+ - Technology selection
+ - Capacity planning
+ - Driving various ops related efforts
+ - Writing scripts for creating, truncating, dropping, altering HBase tables
+ - Deep dive into various configuration parameters for Hadoop, HBase, Pig, TorqueBox
+ - Own, maintain, improve aggregation layer (Sinatra app) written in JRuby&#x2F;TorqueBox
 
-• Wrote a couple of internal admin tools
+• Previously worked on search, newsfeed and built a REST API for follow&#x2F;unfollow activities.
 
-• Technologies Used: Allegro Common Lisp, Allegro Cache, Memcached, Hunchentoot, HTML-TEMPLATE
+• Technologies Used: Hadoop, HBase, Apache Phoenix, Pig, Oozie, TorqueBox, JRuby, Clojure, Ruby, Sinatra, MySQL, Solr, MongoDB
 
 ---
 
@@ -100,39 +110,29 @@ Resume: https:&#x2F;&#x2F;www.dropbox.com&#x2F;s&#x2F;inygp31j085rvzt&#x2F;r%C3%
 
 ---
 
-### Senior Software Engineer (Big Data &#x2F; Analytics), LinkedIn (SlideShare)
-##### 2011-11-01 
-• Working on the SlideShare product (http:&#x2F;&#x2F;www.slideshare.net). LinkedIn acquired SlideShare in May 2012. SlideShare + LinkedIn = More Value for Professionals: http:&#x2F;&#x2F;blog.linkedin.com&#x2F;2012&#x2F;05&#x2F;03&#x2F;slideshare-linkedin-more-value-for-professionals&#x2F;
+### Software Developer, Cleartrip.com
+##### 2007-08-01 - 2009-05-01
+• Integrated routing for domestic flight search with existing system along with another team member 
 
-• Part of Analytics data backend team and working on a new scalable version of the analytics product using Hadoop&#x2F;HBase&#x2F;Pig&#x2F;Oozie.
+• Worked on search system of IC airline along with another team member 
 
-• Blog posts related to various product launches:
+• Maintaining and improving internal and external API for flight search and booking 
 
-- PRO Analytics Are Now Faster, Simpler, Better: http:&#x2F;&#x2F;blog.slideshare.net&#x2F;2013&#x2F;07&#x2F;25&#x2F;pro-analytics-are-now-faster-simpler-better&#x2F;
+• Designed and implemented international flight search along with another team member 
 
-- Hadoop and Near Real Time Analytics at SlideShare: http:&#x2F;&#x2F;engineering.slideshare.net&#x2F;2014&#x2F;04&#x2F;hadoop-and-near-real-time-analytics-at-slideshare&#x2F;
-  This blog post was mentioned in Hadoop Weekly Issue #66: http:&#x2F;&#x2F;www.hadoopweekly.com&#x2F;Hadoop-Weekly-66.html
+• Worked on booking system for flights along with other team members 
 
-- Analytics Now Available to All Users: http:&#x2F;&#x2F;blog.slideshare.net&#x2F;2014&#x2F;12&#x2F;11&#x2F;analytics-now-available-to-all-users&#x2F;
+• Worked on payment gateway manager to check the authentication of a card along with another team member 
 
-• Responsibilities:
+• Wrote a couple of internal admin tools
 
- - Writing MR jobs using Pig and Java 
- - Designing HBase table schemas
- - Writing Oozie workflows
- - Improving overall data processing workflow time
- - Taking care of overall cluster health along with ops team
- - Taking architectural decisions
- - Technology selection
- - Capacity planning
- - Driving various ops related efforts
- - Writing scripts for creating, truncating, dropping, altering HBase tables
- - Deep dive into various configuration parameters for Hadoop, HBase, Pig, TorqueBox
- - Own, maintain, improve aggregation layer (Sinatra app) written in JRuby&#x2F;TorqueBox
+• Technologies Used: Allegro Common Lisp, Allegro Cache, Memcached, Hunchentoot, HTML-TEMPLATE
 
-• Previously worked on search, newsfeed and built a REST API for follow&#x2F;unfollow activities.
+---
 
-• Technologies Used: Hadoop, HBase, Apache Phoenix, Pig, Oozie, TorqueBox, JRuby, Clojure, Ruby, Sinatra, MySQL, Solr, MongoDB
+### System Administrator, Srijan Technologies Pvt. Ltd.
+##### 2006-07-01 - 2006-12-01
+• Basic Linux sysadmin stuff. Period of learning Perl.
 
 ---
 
@@ -141,26 +141,99 @@ Resume: https:&#x2F;&#x2F;www.dropbox.com&#x2F;s&#x2F;inygp31j085rvzt&#x2F;r%C3%
 ## Education
 
 
-### Delhi Public School - Bokaro - AISSCE (10 + 2), CBSE, Science
-##### 1998-01-01 - 2000-01-01
-
-
----
-
 ### Shivaji University - B. E., Electronics
 ##### 2001-01-01 - 2006-01-01
 
 
 ---
 
+### Delhi Public School - Bokaro - AISSCE (10 + 2), CBSE, Science
+##### 1998-01-01 - 2000-01-01
+
+
+---
+
+### Saraswati Vidya Mandir, Munger - , 
+#####  - 
+
+
+---
 
 
 
 
 
+## Skills
+
+
+Git 
+
+MongoDB 
+
+Ruby 
+
+Python 
+
+Hadoop 
+
+MySQL 
+
+Emacs 
+
+Linux 
+
+Clojure 
+
+Open Source 
+
+Web Applications 
+
+Perl 
+
+Common Lisp 
+
+Redis 
+
+Solr 
+
+MapReduce 
+
+Amazon EC2 
+
+HBase 
+
+Memcached 
+
+Lucene 
+
+XML 
+
+RabbitMQ 
+
+REST 
+
+NoSQL 
+
+Pig 
+
+Oozie 
 
 
 
 
 
+## References
 
+I met and was friends with Nipra since when, he joined Cleartrip. But we worked together for about a year towards the end of our stints at Cleartrip. It was fun working with him. He played major role in implementing International Air Search, Multi-city Air Search,  External Search&#x2F;Book API etc. For any problem we discussed together, he always used to come up with simpler and efficient solutions.
+
+Nipra is a very disciplined programmer. His code-quality is always note perfect. Always ready to learn and explore. Very hard working with great analytical skills. And yes he loves Emacs  :) 
+I would highly recommend to have Nipra on any team.
+*Prashant Acharekar*
+
+---
+Nikhil (better known as Nipra) and I did a lot of work together on the air product at Cleartrip. During that time, Nipra directly handled (developed and managed) many important sub-systems of the air product, including international search, parts of the booking engine, and some nifty utilities for administration of the air product.
+
+It was stellar work. Any work handed over to Nipra would be done on time and without any major hiccups. And the code quality would be top-notch. He is an asset to have in any team -- I would highly recommend him.
+*Chaitanya Gupta*
+
+---
